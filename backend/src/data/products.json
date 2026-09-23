@@ -1,0 +1,343 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Noise-Cancelling Headphones",
+    "description": "Premium wireless headphones with active noise cancellation, 30-hour battery life, and high-resolution audio.",
+    "price": 299.99,
+    "originalPrice": 349.99,
+    "discount": 14,
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviews": 1245,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=600",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 45,
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "name": "Minimalist Men's Watch",
+    "description": "Elegant mechanical watch with a genuine leather strap and scratch-resistant sapphire crystal face.",
+    "price": 149.50,
+    "originalPrice": 199.00,
+    "discount": 25,
+    "category": "Accessories",
+    "rating": 4.6,
+    "reviews": 320,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 120,
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "name": "Organic Skincare Set",
+    "description": "A complete daily skincare routine featuring organic cleanser, toner, and moisturizer packed with vitamins.",
+    "price": 89.00,
+    "originalPrice": 89.00,
+    "discount": 0,
+    "category": "Beauty",
+    "rating": 4.9,
+    "reviews": 850,
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 80,
+    "isFeatured": false
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Gaming Chair",
+    "description": "Designed for long gaming sessions, features lumbar support, adjustable armrests, and premium PU leather.",
+    "price": 249.99,
+    "originalPrice": 299.99,
+    "discount": 16,
+    "category": "Gaming",
+    "rating": 4.5,
+    "reviews": 412,
+    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 15,
+    "isFeatured": true
+  },
+  {
+    "id": 5,
+    "name": "Yoga Mat with Alignment Lines",
+    "description": "Non-slip, eco-friendly TPE yoga mat with helpful alignment lines for perfect poses. Includes carrying strap.",
+    "price": 34.99,
+    "originalPrice": 45.00,
+    "discount": 22,
+    "category": "Sports",
+    "rating": 4.7,
+    "reviews": 530,
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 200,
+    "isFeatured": false
+  },
+  {
+    "id": 6,
+    "name": "Classic Denim Jacket",
+    "description": "Timeless vintage wash denim jacket made from 100% cotton. A versatile wardrobe staple.",
+    "price": 79.90,
+    "originalPrice": 79.90,
+    "discount": 0,
+    "category": "Fashion",
+    "rating": 4.4,
+    "reviews": 215,
+    "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 60,
+    "isFeatured": true
+  },
+  {
+    "id": 7,
+    "name": "Smart Home Hub 2.0",
+    "description": "Control your entire home with this intelligent voice-activated hub with a 7-inch touch screen display.",
+    "price": 129.00,
+    "originalPrice": 149.00,
+    "discount": 13,
+    "category": "Home & Living",
+    "rating": 4.8,
+    "reviews": 1102,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ffcbc126?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1558089687-f282ffcbc126?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 40,
+    "isFeatured": true
+  },
+  {
+    "id": 8,
+    "name": "Professional Makeup Brushes",
+    "description": "Set of 12 ultra-soft, synthetic makeup brushes with a luxurious travel case.",
+    "price": 45.00,
+    "originalPrice": 60.00,
+    "discount": 25,
+    "category": "Beauty",
+    "rating": 4.6,
+    "reviews": 340,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 150,
+    "isFeatured": false
+  },
+  {
+    "id": 9,
+    "name": "Men's Running Sneakers",
+    "description": "Lightweight, breathable sneakers engineered for marathon runners and casual joggers alike.",
+    "price": 119.99,
+    "originalPrice": 149.99,
+    "discount": 20,
+    "category": "Sports",
+    "rating": 4.7,
+    "reviews": 890,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 85,
+    "isFeatured": true
+  },
+  {
+    "id": 10,
+    "name": "Mechanical Gaming Keyboard",
+    "description": "RGB backlit mechanical keyboard with tactile blue switches and aircraft-grade aluminum frame.",
+    "price": 109.99,
+    "originalPrice": 129.99,
+    "discount": 15,
+    "category": "Gaming",
+    "rating": 4.9,
+    "reviews": 2150,
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 35,
+    "isFeatured": true
+  },
+  {
+    "id": 11,
+    "name": "Ceramic Coffee Mug Set",
+    "description": "Set of 4 artisan-crafted ceramic coffee mugs in earthy pastel tones.",
+    "price": 38.00,
+    "originalPrice": 38.00,
+    "discount": 0,
+    "category": "Home & Living",
+    "rating": 4.5,
+    "reviews": 120,
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 50,
+    "isFeatured": false
+  },
+  {
+    "id": 12,
+    "name": "Polarized Sunglasses",
+    "description": "Classic aviator sunglasses with polarized UV400 lenses and a lightweight metal frame.",
+    "price": 55.00,
+    "originalPrice": 85.00,
+    "discount": 35,
+    "category": "Accessories",
+    "rating": 4.4,
+    "reviews": 410,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 110,
+    "isFeatured": false
+  },
+  {
+    "id": 13,
+    "name": "Women's Summer Dress",
+    "description": "Flowy floral summer dress made from breathable organic cotton. Perfect for beach days.",
+    "price": 65.00,
+    "originalPrice": 65.00,
+    "discount": 0,
+    "category": "Fashion",
+    "rating": 4.7,
+    "reviews": 325,
+    "image": "https://images.unsplash.com/photo-1515347619152-3cb8b3f124c6?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1515347619152-3cb8b3f124c6?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 75,
+    "isFeatured": true
+  },
+  {
+    "id": 14,
+    "name": "4K Action Camera",
+    "description": "Waterproof action camera that shoots stunning 4K video at 60fps. Includes mounting accessories.",
+    "price": 199.99,
+    "originalPrice": 249.99,
+    "discount": 20,
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviews": 950,
+    "image": "https://images.unsplash.com/photo-1500634245200-e5245c7574ef?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1500634245200-e5245c7574ef?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 25,
+    "isFeatured": false
+  },
+  {
+    "id": 15,
+    "name": "Vitamin C Serum",
+    "description": "Potent 20% Vitamin C serum with hyaluronic acid for bright, glowing skin.",
+    "price": 42.00,
+    "originalPrice": 55.00,
+    "discount": 23,
+    "category": "Beauty",
+    "rating": 4.8,
+    "reviews": 1600,
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 140,
+    "isFeatured": true
+  },
+  {
+    "id": 16,
+    "name": "Adjustable Dumbbell Set",
+    "description": "Space-saving dumbbell set that adjusts from 5 to 52.5 lbs with the turn of a dial.",
+    "price": 299.00,
+    "originalPrice": 350.00,
+    "discount": 14,
+    "category": "Sports",
+    "rating": 4.9,
+    "reviews": 3200,
+    "image": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 10,
+    "isFeatured": true
+  },
+  {
+    "id": 17,
+    "name": "Wireless Gaming Mouse",
+    "description": "Ultra-lightweight esports gaming mouse with a 25K DPI optical sensor.",
+    "price": 89.99,
+    "originalPrice": 89.99,
+    "discount": 0,
+    "category": "Gaming",
+    "rating": 4.7,
+    "reviews": 850,
+    "image": "https://images.unsplash.com/photo-1527814050087-379381547969?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1527814050087-379381547969?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 65,
+    "isFeatured": false
+  },
+  {
+    "id": 18,
+    "name": "Linen Duvet Cover",
+    "description": "Breathable, pre-washed 100% French flax linen duvet cover. Gets softer with every wash.",
+    "price": 145.00,
+    "originalPrice": 180.00,
+    "discount": 19,
+    "category": "Home & Living",
+    "rating": 4.6,
+    "reviews": 420,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 30,
+    "isFeatured": false
+  },
+  {
+    "id": 19,
+    "name": "Genuine Leather Wallet",
+    "description": "Slim bifold leather wallet with RFID blocking technology and multiple card slots.",
+    "price": 45.00,
+    "originalPrice": 45.00,
+    "discount": 0,
+    "category": "Accessories",
+    "rating": 4.8,
+    "reviews": 670,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 180,
+    "isFeatured": true
+  },
+  {
+    "id": 20,
+    "name": "Men's Oxford Shirt",
+    "description": "Classic fit, wrinkle-free cotton Oxford shirt. Perfect for office or casual wear.",
+    "price": 55.00,
+    "originalPrice": 75.00,
+    "discount": 26,
+    "category": "Fashion",
+    "rating": 4.5,
+    "reviews": 310,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e32f85e98?auto=format&fit=crop&q=80&w=600",
+    "gallery": [
+      "https://images.unsplash.com/photo-1596755094514-f87e32f85e98?auto=format&fit=crop&q=80&w=600"
+    ],
+    "stock": 90,
+    "isFeatured": false
+  }
+]

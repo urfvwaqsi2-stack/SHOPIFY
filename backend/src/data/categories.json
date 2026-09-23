@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 2,
+    "name": "Fashion",
+    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 3,
+    "name": "Beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 4,
+    "name": "Home & Living",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 5,
+    "name": "Accessories",
+    "image": "https://images.unsplash.com/photo-1509319117193-57bab727e09d?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 6,
+    "name": "Sports",
+    "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 7,
+    "name": "Gaming",
+    "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&q=80&w=600"
+  }
+]

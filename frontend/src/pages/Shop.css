@@ -1,0 +1,132 @@
+.shop-page {
+  padding-bottom: 4rem;
+}
+
+.shop-header {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+@media (min-width: 768px) {
+  .shop-header {
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+  }
+}
+
+.shop-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.mobile-filter-btn {
+  display: flex;
+}
+
+@media (min-width: 992px) {
+  .mobile-filter-btn {
+    display: none;
+  }
+}
+
+.sort-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.sort-select {
+  width: auto;
+  min-width: 180px;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+}
+
+.shop-layout {
+  display: flex;
+  gap: 3rem;
+  position: relative;
+}
+
+.shop-sidebar {
+  width: 260px;
+  flex-shrink: 0;
+  display: none;
+}
+
+@media (min-width: 992px) {
+  .shop-sidebar {
+    display: block;
+    position: sticky;
+    top: 100px;
+    height: max-content;
+  }
+}
+
+/* Mobile Sidebar */
+@media (max-width: 991px) {
+  .shop-sidebar.open {
+    display: block;
+    position: fixed;
+    top: 80px;
+    left: 0;
+    width: 100%;
+    height: calc(100vh - 80px);
+    background: white;
+    z-index: 40;
+    padding: 2rem;
+    overflow-y: auto;
+  }
+}
+
+.filter-group {
+  margin-bottom: 2rem;
+}
+
+.filter-title {
+  font-weight: 600;
+  font-size: 1.125rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.filter-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.filter-list button {
+  text-align: left;
+  color: var(--text-muted);
+  width: 100%;
+  padding: 0.5rem 0;
+  transition: var(--transition);
+}
+
+.filter-list button:hover {
+  color: var(--primary-color);
+  padding-left: 0.25rem;
+}
+
+.filter-list button.active {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+.shop-main {
+  flex: 1;
+}
+
+.empty-state {
+  background: var(--bg-white);
+  border-radius: var(--radius-lg);
+  border: 1px dashed var(--border-color);
+}
